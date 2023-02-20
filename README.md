@@ -49,4 +49,10 @@ The goal is to determine if there is an event that is higher scoring than the re
 The dataset used in this project is a csv file from Kaggle. It can be found at the following url: 
 https://www.kaggle.com/datasets/cjdaffern/gymnastic-champs-mens-all-round
 
-### This project will include using pandas and working with a DataFrame, using lists, calculating descriptive statistics, creating functions, using list comprehensions to filter data, using matplotlib for viaualizations including a bar chart and customized histograms;
+### This project will include but is not limited to the following:
+* using pandas and working with a DataFrame 
+* using lists 
+* calculating descriptive statistics 
+* creating functions 
+* using list comprehensions to filter data 
+* using matplotlib for visualizations including a bar chart and customized histograms
