@@ -39,9 +39,12 @@ Do these consistently. A heading and section titles is required in every noteboo
 
 
 
-### domain: gymnastics
+
 
 ## gymnastics_data_project.ipynb
+
+### domain: gymnastics
+
 This project looks at data from the 2017 World Gymnastics Championships, Men's All-Around Final.
 The goal is to determine if there is an event that is higher scoring than the rest.
 
