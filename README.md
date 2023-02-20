@@ -58,4 +58,4 @@ https://www.kaggle.com/datasets/cjdaffern/gymnastic-champs-mens-all-round
 * calculating descriptive statistics 
 * creating functions 
 * using list comprehensions to filter data 
-* using matplotlib for visualizations including a bar chart and customized histograms
+* using matplotlib for visualizations including bar charts and customized histograms
