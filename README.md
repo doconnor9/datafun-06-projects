@@ -6,7 +6,9 @@
 
 ## diamonda_exercise.ipynb
 This is a guided exploratory data analysis project 
+
 Example from "Intro To Python" by Paul Deitel and Harvey Deitel, Copyright 2020
+
 Project focuses on diamonds.csv and is based on exercise 9.16
 
 Follow the instructions for Exercise 9.16 (starting pg. 350).
