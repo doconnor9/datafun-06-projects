@@ -11,6 +11,7 @@ Example from "Intro To Python" by Paul Deitel and Harvey Deitel, Copyright 2020
 
 Project focuses on diamonds.csv and is based on exercise 9.16
 
+
 Follow the instructions for Exercise 9.16 (starting pg. 350).
 Complete the exercise in a notebook. 
 1-Load: Get the file, store it in your repo, and load it into a DataFrame. 
